@@ -1,0 +1,46 @@
+﻿@model IEnumerable<Checkpoint2.Models.Receita> 
+
+@{
+    ViewBag.Title = "Lista de Receitas";
+}
+
+<h2>Lista de Receitas</h2>
+
+<p>
+    @Html.ActionLink("Criar Nova Receita", "Create") <!-- Link para criar nova receita -->
+</p>
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Nome) <!-- Cabeçalho da coluna Nome -->
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Ingredientes) <!-- Cabeçalho da coluna Ingredientes -->
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ModoPreparo) <!-- Cabeçalho da coluna Modo de Preparo -->
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Nome) <!-- Exibe o Nome da receita -->
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Ingredientes) <!-- Exibe os Ingredientes da receita -->
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ModoPreparo) <!-- Exibe o Modo de Preparo da receita -->
+            </td>
+            <td>
+                @Html.ActionLink("Editar", "Edit", new { id = item.Id }) | <!-- Link para editar a receita -->
+                @Html.ActionLink("Detalhes", "Details", new { id = item.Id }) | <!-- Link para ver detalhes da receita -->
+                @Html.ActionLink("Excluir", "Delete", new { id = item.Id }, new { onclick = "return confirm('Tem certeza que deseja excluir esta receita?')" }) <!-- Link para excluir a receita com confirmação -->
+            </td>
+        </tr>
+    }
+</table>

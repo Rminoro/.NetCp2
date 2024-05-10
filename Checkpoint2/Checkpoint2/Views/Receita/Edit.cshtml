@@ -1,0 +1,36 @@
+﻿@model Checkpoint2.Models.Receita
+
+@{
+    ViewBag.Title = "Editar Receita";
+}
+
+<h2>Editar Receita</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken() <!-- Utiliza token anti-falsificação -->
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.Nome) <!-- Label para o campo Nome -->
+        @Html.TextBoxFor(model => model.Nome, new { @class = "form-control" }) <!-- Campo de texto para o Nome -->
+        @Html.ValidationMessageFor(model => model.Nome, "", new { @class = "text-danger" }) <!-- Mensagem de validação para o Nome -->
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.Ingredientes) <!-- Label para o campo Ingredientes -->
+        @Html.TextAreaFor(model => model.Ingredientes, new { @class = "form-control" }) <!-- Campo de texto para os Ingredientes -->
+        @Html.ValidationMessageFor(model => model.Ingredientes, "", new { @class = "text-danger" }) <!-- Mensagem de validação para os Ingredientes -->
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.ModoPreparo) <!-- Label para o campo Modo de Preparo -->
+        @Html.TextAreaFor(model => model.ModoPreparo, new { @class = "form-control" }) <!-- Campo de texto para o Modo de Preparo -->
+        @Html.ValidationMessageFor(model => model.ModoPreparo, "", new { @class = "text-danger" }) <!-- Mensagem de validação para o Modo de Preparo -->
+    </div>
+
+    <button type="submit" class="btn btn-primary">Salvar</button> <!-- Botão de envio do formulário -->
+}
+
+<div>
+    @Html.ActionLink("Voltar para Lista", "Index") <!-- Link para voltar à lista de receitas -->
+</div>

@@ -1,0 +1,28 @@
+﻿@model Checkpoint2.Models.Categoria
+
+@{
+    ViewBag.Title = "Criar Nova Categoria";
+}
+
+<h2>Criar Nova Categoria</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.Nome)
+        @Html.EditorFor(model => model.Nome, new { htmlAttributes = new { @class = "form-control" } })
+        @Html.ValidationMessageFor(model => model.Nome, "", new { @class = "text-danger" })
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(model => model.Descricao)
+        @Html.EditorFor(model => model.Descricao, new { htmlAttributes = new { @class = "form-control" } })
+        @Html.ValidationMessageFor(model => model.Descricao, "", new { @class = "text-danger" })
+    </div>
+
+    <div class="form-group">
+        <input type="submit" value="Salvar" class="btn btn-primary" />
+        @Html.ActionLink("Cancelar", "Index", null, new { @class = "btn btn-default" })
+    </div>
+}

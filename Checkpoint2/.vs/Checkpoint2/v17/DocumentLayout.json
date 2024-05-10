@@ -1,0 +1,343 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\Checkpoint2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15964DFC-5F1B-45DA-A53C-874ECB7AF078}|Checkpoint2\\Checkpoint2.csproj|c:\\users\\user\\source\\repos\\checkpoint2\\checkpoint2\\views\\receita\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15964DFC-5F1B-45DA-A53C-874ECB7AF078}|Checkpoint2\\Checkpoint2.csproj|solutionrelative:checkpoint2\\views\\receita\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15964DFC-5F1B-45DA-A53C-874ECB7AF078}|Checkpoint2\\Checkpoint2.csproj|c:\\users\\user\\source\\repos\\checkpoint2\\checkpoint2\\controllers\\apicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15964DFC-5F1B-45DA-A53C-874ECB7AF078}|Checkpoint2\\Checkpoint2.csproj|solutionrelative:checkpoint2\\controllers\\apicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15964DFC-5F1B-45DA-A53C-874ECB7AF078}|Checkpoint2\\Checkpoint2.csproj|c:\\users\\user\\source\\repos\\checkpoint2\\checkpoint2\\views\\receita\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15964DFC-5F1B-45DA-A53C-874ECB7AF078}|Checkpoint2\\Checkpoint2.csproj|solutionrelative:checkpoint2\\views\\receita\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15964DFC-5F1B-45DA-A53C-874ECB7AF078}|Checkpoint2\\Checkpoint2.csproj|c:\\users\\user\\source\\repos\\checkpoint2\\checkpoint2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15964DFC-5F1B-45DA-A53C-874ECB7AF078}|Checkpoint2\\Checkpoint2.csproj|solutionrelative:checkpoint2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15964DFC-5F1B-45DA-A53C-874ECB7AF078}|Checkpoint2\\Checkpoint2.csproj|c:\\users\\user\\source\\repos\\checkpoint2\\checkpoint2\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15964DFC-5F1B-45DA-A53C-874ECB7AF078}|Checkpoint2\\Checkpoint2.csproj|solutionrelative:checkpoint2\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15964DFC-5F1B-45DA-A53C-874ECB7AF078}|Checkpoint2\\Checkpoint2.csproj|c:\\users\\user\\source\\repos\\checkpoint2\\checkpoint2\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15964DFC-5F1B-45DA-A53C-874ECB7AF078}|Checkpoint2\\Checkpoint2.csproj|solutionrelative:checkpoint2\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15964DFC-5F1B-45DA-A53C-874ECB7AF078}|Checkpoint2\\Checkpoint2.csproj|c:\\users\\user\\source\\repos\\checkpoint2\\checkpoint2\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15964DFC-5F1B-45DA-A53C-874ECB7AF078}|Checkpoint2\\Checkpoint2.csproj|solutionrelative:checkpoint2\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15964DFC-5F1B-45DA-A53C-874ECB7AF078}|Checkpoint2\\Checkpoint2.csproj|c:\\users\\user\\source\\repos\\checkpoint2\\checkpoint2\\views\\receita\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15964DFC-5F1B-45DA-A53C-874ECB7AF078}|Checkpoint2\\Checkpoint2.csproj|solutionrelative:checkpoint2\\views\\receita\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15964DFC-5F1B-45DA-A53C-874ECB7AF078}|Checkpoint2\\Checkpoint2.csproj|c:\\users\\user\\source\\repos\\checkpoint2\\checkpoint2\\views\\receita\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15964DFC-5F1B-45DA-A53C-874ECB7AF078}|Checkpoint2\\Checkpoint2.csproj|solutionrelative:checkpoint2\\views\\receita\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15964DFC-5F1B-45DA-A53C-874ECB7AF078}|Checkpoint2\\Checkpoint2.csproj|c:\\users\\user\\source\\repos\\checkpoint2\\checkpoint2\\models\\contexto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15964DFC-5F1B-45DA-A53C-874ECB7AF078}|Checkpoint2\\Checkpoint2.csproj|solutionrelative:checkpoint2\\models\\contexto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15964DFC-5F1B-45DA-A53C-874ECB7AF078}|Checkpoint2\\Checkpoint2.csproj|c:\\users\\user\\source\\repos\\checkpoint2\\checkpoint2\\migrations\\20240418234735_initdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15964DFC-5F1B-45DA-A53C-874ECB7AF078}|Checkpoint2\\Checkpoint2.csproj|solutionrelative:checkpoint2\\migrations\\20240418234735_initdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15964DFC-5F1B-45DA-A53C-874ECB7AF078}|Checkpoint2\\Checkpoint2.csproj|c:\\users\\user\\source\\repos\\checkpoint2\\checkpoint2\\views\\categoria\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15964DFC-5F1B-45DA-A53C-874ECB7AF078}|Checkpoint2\\Checkpoint2.csproj|solutionrelative:checkpoint2\\views\\categoria\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15964DFC-5F1B-45DA-A53C-874ECB7AF078}|Checkpoint2\\Checkpoint2.csproj|c:\\users\\user\\source\\repos\\checkpoint2\\checkpoint2\\views\\categoria\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15964DFC-5F1B-45DA-A53C-874ECB7AF078}|Checkpoint2\\Checkpoint2.csproj|solutionrelative:checkpoint2\\views\\categoria\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15964DFC-5F1B-45DA-A53C-874ECB7AF078}|Checkpoint2\\Checkpoint2.csproj|c:\\users\\user\\source\\repos\\checkpoint2\\checkpoint2\\views\\categoria\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15964DFC-5F1B-45DA-A53C-874ECB7AF078}|Checkpoint2\\Checkpoint2.csproj|solutionrelative:checkpoint2\\views\\categoria\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15964DFC-5F1B-45DA-A53C-874ECB7AF078}|Checkpoint2\\Checkpoint2.csproj|c:\\users\\user\\source\\repos\\checkpoint2\\checkpoint2\\views\\categoria\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15964DFC-5F1B-45DA-A53C-874ECB7AF078}|Checkpoint2\\Checkpoint2.csproj|solutionrelative:checkpoint2\\views\\categoria\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15964DFC-5F1B-45DA-A53C-874ECB7AF078}|Checkpoint2\\Checkpoint2.csproj|c:\\users\\user\\source\\repos\\checkpoint2\\checkpoint2\\views\\categoria\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15964DFC-5F1B-45DA-A53C-874ECB7AF078}|Checkpoint2\\Checkpoint2.csproj|solutionrelative:checkpoint2\\views\\categoria\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15964DFC-5F1B-45DA-A53C-874ECB7AF078}|Checkpoint2\\Checkpoint2.csproj|c:\\users\\user\\source\\repos\\checkpoint2\\checkpoint2\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15964DFC-5F1B-45DA-A53C-874ECB7AF078}|Checkpoint2\\Checkpoint2.csproj|solutionrelative:checkpoint2\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15964DFC-5F1B-45DA-A53C-874ECB7AF078}|Checkpoint2\\Checkpoint2.csproj|c:\\users\\user\\source\\repos\\checkpoint2\\checkpoint2\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15964DFC-5F1B-45DA-A53C-874ECB7AF078}|Checkpoint2\\Checkpoint2.csproj|solutionrelative:checkpoint2\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15964DFC-5F1B-45DA-A53C-874ECB7AF078}|Checkpoint2\\Checkpoint2.csproj|c:\\users\\user\\source\\repos\\checkpoint2\\checkpoint2\\views\\receita\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15964DFC-5F1B-45DA-A53C-874ECB7AF078}|Checkpoint2\\Checkpoint2.csproj|solutionrelative:checkpoint2\\views\\receita\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Contexto.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Checkpoint2\\Checkpoint2\\Models\\Contexto.cs",
+              "RelativeDocumentMoniker": "Checkpoint2\\Models\\Contexto.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Checkpoint2\\Checkpoint2\\Models\\Contexto.cs",
+              "RelativeToolTip": "Checkpoint2\\Models\\Contexto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T22:18:52.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Checkpoint2\\Checkpoint2\\Views\\Receita\\Create.cshtml",
+              "RelativeDocumentMoniker": "Checkpoint2\\Views\\Receita\\Create.cshtml",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Checkpoint2\\Checkpoint2\\Views\\Receita\\Create.cshtml",
+              "RelativeToolTip": "Checkpoint2\\Views\\Receita\\Create.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-18T23:01:11.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Checkpoint2\\Checkpoint2\\Views\\Receita\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Checkpoint2\\Views\\Receita\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Checkpoint2\\Checkpoint2\\Views\\Receita\\Edit.cshtml",
+              "RelativeToolTip": "Checkpoint2\\Views\\Receita\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-18T23:05:47.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Checkpoint2\\Checkpoint2\\Models\\Categoria.cs",
+              "RelativeDocumentMoniker": "Checkpoint2\\Models\\Categoria.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Checkpoint2\\Checkpoint2\\Models\\Categoria.cs",
+              "RelativeToolTip": "Checkpoint2\\Models\\Categoria.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T21:47:48.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Checkpoint2\\Checkpoint2\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Checkpoint2\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Checkpoint2\\Checkpoint2\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Checkpoint2\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T21:46:23.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Checkpoint2\\Checkpoint2\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Checkpoint2\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Checkpoint2\\Checkpoint2\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Checkpoint2\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-18T23:27:57.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Checkpoint2\\Checkpoint2\\Program.cs",
+              "RelativeDocumentMoniker": "Checkpoint2\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Checkpoint2\\Checkpoint2\\Program.cs",
+              "RelativeToolTip": "Checkpoint2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T23:43:29.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Checkpoint2\\Checkpoint2\\Views\\Receita\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Checkpoint2\\Views\\Receita\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Checkpoint2\\Checkpoint2\\Views\\Receita\\Delete.cshtml",
+              "RelativeToolTip": "Checkpoint2\\Views\\Receita\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-18T23:02:54.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20240418234735_initdb.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Checkpoint2\\Checkpoint2\\Migrations\\20240418234735_initdb.cs",
+              "RelativeDocumentMoniker": "Checkpoint2\\Migrations\\20240418234735_initdb.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Checkpoint2\\Checkpoint2\\Migrations\\20240418234735_initdb.cs",
+              "RelativeToolTip": "Checkpoint2\\Migrations\\20240418234735_initdb.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T23:47:35.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApiController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Checkpoint2\\Checkpoint2\\Controllers\\ApiController.cs",
+              "RelativeDocumentMoniker": "Checkpoint2\\Controllers\\ApiController.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Checkpoint2\\Checkpoint2\\Controllers\\ApiController.cs",
+              "RelativeToolTip": "Checkpoint2\\Controllers\\ApiController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T23:36:36.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Checkpoint2\\Checkpoint2\\Views\\Receita\\Index.cshtml",
+              "RelativeDocumentMoniker": "Checkpoint2\\Views\\Receita\\Index.cshtml",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Checkpoint2\\Checkpoint2\\Views\\Receita\\Index.cshtml",
+              "RelativeToolTip": "Checkpoint2\\Views\\Receita\\Index.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-18T22:51:21.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Checkpoint2\\Checkpoint2\\Views\\Categoria\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Checkpoint2\\Views\\Categoria\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Checkpoint2\\Checkpoint2\\Views\\Categoria\\Delete.cshtml",
+              "RelativeToolTip": "Checkpoint2\\Views\\Categoria\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-18T23:17:18.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Checkpoint2\\Checkpoint2\\Views\\Categoria\\Index.cshtml",
+              "RelativeDocumentMoniker": "Checkpoint2\\Views\\Categoria\\Index.cshtml",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Checkpoint2\\Checkpoint2\\Views\\Categoria\\Index.cshtml",
+              "RelativeToolTip": "Checkpoint2\\Views\\Categoria\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-18T23:16:08.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Checkpoint2\\Checkpoint2\\Views\\Categoria\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Checkpoint2\\Views\\Categoria\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Checkpoint2\\Checkpoint2\\Views\\Categoria\\Edit.cshtml",
+              "RelativeToolTip": "Checkpoint2\\Views\\Categoria\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-18T23:17:00.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Checkpoint2\\Checkpoint2\\Views\\Categoria\\Details.cshtml",
+              "RelativeDocumentMoniker": "Checkpoint2\\Views\\Categoria\\Details.cshtml",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Checkpoint2\\Checkpoint2\\Views\\Categoria\\Details.cshtml",
+              "RelativeToolTip": "Checkpoint2\\Views\\Categoria\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-18T23:17:55.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Checkpoint2\\Checkpoint2\\Views\\Categoria\\Create.cshtml",
+              "RelativeDocumentMoniker": "Checkpoint2\\Views\\Categoria\\Create.cshtml",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Checkpoint2\\Checkpoint2\\Views\\Categoria\\Create.cshtml",
+              "RelativeToolTip": "Checkpoint2\\Views\\Categoria\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-18T23:16:43.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Checkpoint2\\Checkpoint2\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Checkpoint2\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Checkpoint2\\Checkpoint2\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Checkpoint2\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-18T23:27:45.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Checkpoint2\\Checkpoint2\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Checkpoint2\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Checkpoint2\\Checkpoint2\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Checkpoint2\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-18T23:27:47.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Checkpoint2\\Checkpoint2\\Views\\Receita\\Details.cshtml",
+              "RelativeDocumentMoniker": "Checkpoint2\\Views\\Receita\\Details.cshtml",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Checkpoint2\\Checkpoint2\\Views\\Receita\\Details.cshtml",
+              "RelativeToolTip": "Checkpoint2\\Views\\Receita\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-18T23:12:22.402Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

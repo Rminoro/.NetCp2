@@ -1,0 +1,37 @@
+﻿@model Checkpoint2.Models.Receita
+
+@{
+    ViewBag.Title = "Detalhes da Receita";
+}
+
+<h2>Detalhes da Receita</h2>
+
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Nome)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Nome)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Ingredientes)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Ingredientes)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.ModoPreparo)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.ModoPreparo)
+        </dd>
+    </dl>
+    <hr />
+</div>
+
+<div>
+    @Html.ActionLink("Editar", "Edit", new { id = Model.Id }) |
+    @Html.ActionLink("Voltar para Lista", "Index")
+</div>
